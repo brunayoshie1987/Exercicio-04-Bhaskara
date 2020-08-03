@@ -1,0 +1,13 @@
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.exe
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.deps.json
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.runtimeconfig.json
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.runtimeconfig.dev.json
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.dll
+C:\repo\Exercicio 4 - Bhaskara\bin\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.pdb
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.csprojAssemblyReference.cache
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.AssemblyInfoInputs.cache
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.AssemblyInfo.cs
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.dll
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.pdb
+C:\repo\Exercicio 4 - Bhaskara\obj\Debug\netcoreapp3.1\Exercicio 4 - Bhaskara.genruntimeconfig.cache
